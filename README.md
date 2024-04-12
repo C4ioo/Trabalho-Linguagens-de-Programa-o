@@ -18,6 +18,6 @@ Pesquise a linguagem: "C++" e coloque um título no seu "template".
 
 Depois de criado o template, aparecerá um espaço enorme para você começar a escrever o seu código.
 
-Nesse caso os códigos já estão criados, portanto basta fazer um ctrl + c e ctrl + v no código aqui no github e colocar no seu template que criou.
+Nesse caso os códigos já estão criados, portanto basta selecionar o código por completo e fazer um ctrl + c e ctrl + v no código aqui no github e colocar no seu template que criou.
 
-Porém se caso você queira fazer os seus códigos em outra situação, basta fazer o código e logo após você terminar o seu código, clicar no botão: "Run" ou aperte: "ctrl + enter" que dá no mesmo. Após alguns segundos, caso o seu código esteja correto, ao lado na aba "console", o site irá mostrar o seu código executado. Caso o seu código apresente algum erro, o próprio site irá mostrar qual a linha do seu código está errado e irá justificar qual é o erro.
+Porém se caso você queira fazer os seus códigos em outra situação ou seja manualmente, faça o código e logo após que você terminar o seu código, clicar no botão: "Run" ou aperte: "ctrl + enter" que dá no mesmo. Após alguns segundos, caso o seu código esteja correto, ao lado na aba "console", o site irá mostrar o seu código executado. Caso o seu código apresente algum erro, o próprio site irá mostrar qual a linha do seu código está errado e irá justificar qual é o erro.
