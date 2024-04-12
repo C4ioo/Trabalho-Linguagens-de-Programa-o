@@ -1,0 +1,34 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  int numero1, numero2, soma;
+
+  // Lendo os números do usuário
+  cout << "Digite o primeiro número: ";
+  cin >> numero1;
+  cout << "Digite o segundo número: ";
+  cin >> numero2;
+
+  // Calculando a soma dos números
+  soma = numero1 + numero2;
+
+  // Imprimindo o resultado da soma
+  cout << "A soma dos números é: " << soma << endl;
+
+  return 0;
+}
+/*
+Explicação do código:
+
+O código define duas variáveis "numero1" e "numero2" para armazenar os números digitados pelo usuário.
+A função "cin" é utilizada para ler os valores digitados pelo usuário e armazená-los nas variáveis.
+A variável "soma" é utilizada para armazenar o resultado da soma dos números.
+A função "cout" é utilizada para imprimir o resultado da soma na tela.
+
+Características do paradigma imperativo:
+
+Sequência de instruções: As instruções são executadas sequencialmente, uma após a outra.
+Entrada e saída: O código lê dados do usuário e imprime resultados na tela.
+*/
