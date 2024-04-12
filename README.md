@@ -12,7 +12,7 @@ O link do site é esse: https://replit.com/
 
 Após entrar no site, caso o usuário não tenha uma conta, basta clicar no botão "Start Building" ou "Comece a construir" e criar a conta.
 
-Após criar a conta, clique na opção: "Create Repl", e lá aparecerá muitas opções de linguagens(não haverá TODAS as linguagens que existem, mas pelo menos as principais incluíndo as suas respectivas bibliotecas).
+Após criar a conta, clique na opção: "Create Repl", e lá aparecerá muitas opções de linguagens (não haverá TODAS as linguagens que existem, mas pelo menos as principais incluíndo as suas respectivas bibliotecas).
 
 Pesquise a linguagem: "C++" e coloque um título no seu "template".
 
